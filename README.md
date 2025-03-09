@@ -96,4 +96,4 @@ Este proyecto está bajo la Licencia MIT - consulta el archivo LICENSE para más
 
 ---
 
-Desarrollado con ❤️ por [Tu Nombre]
+Desarrollado con ❤️ por Alvaro Yuste
